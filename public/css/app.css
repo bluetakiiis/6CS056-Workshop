@@ -178,3 +178,8 @@ main.container {
 .card p:first-child {
     margin-top: 0;
 }
+
+.navbar-links a.active {
+    border-bottom: 2px solid white;
+    padding-bottom: 4px;
+}
